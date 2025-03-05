@@ -13,15 +13,15 @@ I have made both Arduino (AVR) and STM32 control code.
 First attempt: 
 
 <p align="center">
-  <img src="./20241121_203540899_iOS.heic" />
+  <img src="./v1.png" />
 </p>
 
 Second attempt
 
 <p align="center">
-  <img src="./20250217_194613144_iOS.jpg" />
+  <img src="./v2_1.png" />
 </p>
 
 <p align="center">
-  <img src="./20250304_023116963_iOS.heic" />
+  <img src="./v2.png" />
 </p>
